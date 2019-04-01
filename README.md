@@ -7,7 +7,7 @@ Bandera del cooperativismo en menos de 1 kilobyte usando XWindows.
 Vas a necesitar tener python3, make y gcc instalados
 
 ```
-git clone --recurse-submodules -j8 git://github.com/Cambalab/coop_flag.git
+git clone --recurse-submodules -j8 https://github.com/Cambalab/coop_flag.git
 sudo apt install zopfli lzma
 make
 ./coop_flag
